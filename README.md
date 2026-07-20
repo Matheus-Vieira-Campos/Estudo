@@ -1,2 +1,2 @@
 # Estudo
-Estudo sobre Python e Lógica de programação. 
+Este é um repositorio focado em estudo onde eu estou inserindo os exercicios que eu estou fazendo da linguaguem Python.
