@@ -1,2 +1,2 @@
 # Estudo
-Estudo sobre Python e Lógica de programação 
+Estudo sobre Python e Lógica de programação. 
